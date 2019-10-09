@@ -21,6 +21,11 @@ Solution for Double-Spend:
     
 3.Proof-of-Work:
 
+Target:
+    
+    1. Increase difficulty for Proof-of-Work so that the transactions stored in blocks by each node could be 
+       allowed to passby other participating nodes.
+
 Solution for:
  
     1. Determining representation in majority decision making.
@@ -37,5 +42,9 @@ Solution:[Dominancy][Super-admin concept creation]
     2. For decremention of PoW for hardware speed of honest node, there is fixing of average nos. of blocks per hour. 
 
 4. Network Setup:
+   
+   
+       1.
+
 
     
