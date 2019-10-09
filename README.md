@@ -26,4 +26,8 @@ Challenges:
     
     1.If 1-IP 1-Vote given for majority, multiple IPs comes into picture by a single client.
 
+Solution:
+
+    1. 1-CPU-1-Vote: CPU power allocation to the one-honest node.
+
 
