@@ -6,5 +6,10 @@ Neural Network based Blockchain
 
 Challenges:
 1. Verification of Double-Spend check on Transactions
-Solution: The Transactions should use third-party for verification.
-2. 
+Solution: 
+    1. The Transactions should use third-party for verification.
+    2. The majority of nodes agree with the received transaction is first by the following Payee. 
+
+2.Timestamp Server:
+
+
