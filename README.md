@@ -1,6 +1,7 @@
-# BlockChain
+#Blockchain
 Neural Network based Blockchain
 
+#bitcoin
 
 1.Transactions:
 
