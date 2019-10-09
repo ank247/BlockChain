@@ -45,8 +45,18 @@ Solution:[Dominancy][Super-admin concept creation]
 
 4. Network Setup:
    
-   
-       1.
-
+Principles:
+       
+    1. Longest chain of blocks are acceptable.
+    2. #Creation:The node finding best and soonest Proof-of-Work, i.e, honest node, transfers block with hashes to 
+       every node. The nodes accept it only with no blocks are spent(doubly signed).
+    3. #Acceptance:The other node on getting PoW for the block passing through it, add an extra block to the chain 
+       with hash generated using hashes from the previous block w.r.t it.
+    4. #Rejection:If any block in the chain found not validating PoW, the complete chain is rejected.
+    5. Throughout the process, there could be more than a chain running throughout the nodes. If 2nd time 
+       PoW is found, it follows the same procedure of distributing the blockchain.
+    6. The new blockchain must not be passing by all the nodes again.
+    
+    
 
     
