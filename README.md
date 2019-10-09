@@ -28,9 +28,14 @@ Solution for:
 Challenges:
     
     1.If 1-IP 1-Vote given for majority, multiple IPs comes into picture by a single client.
-
+    2.The compensation in hardware speed and varying in interest of speed of blocks for nodes 
+      leads to difficulty of Proof-of-Work(PoW).  
+    
 Solution:[Dominancy][Super-admin concept creation]
 
     1. 1-CPU-1-Vote: CPU power allocation to the one-honest node reduces capability of adversary nodes by CPU-power.
+    2. For decremention of PoW for hardware speed of honest node, there is fixing of average nos. of blocks per hour. 
 
+4. Network Setup:
 
+    
