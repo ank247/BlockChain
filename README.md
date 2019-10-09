@@ -58,6 +58,18 @@ Principles:
     6. The new blockchain must not be passing by all the nodes again. The nodes not getting the chain
        raise request for the chain.
     
-    
+5. Incentive:
+6. Reclaiming Disk Spaces:
+7. Simplified Payment Verification:
+8. Combining and Splitting Values:
+9. Privacy:
+10.Calculation:
+
+# Ideation:
+1. Gold Miners(sooner PoW generator): Paid with incentives from needing nodes for transaction. Each nodes paid 
+   for less than or equal to ether transacted valued product with Gold Miners with extra bonus. The minter will
+   be having high CPU-power node to earn more gold coin.
+   
+2.
 
     
