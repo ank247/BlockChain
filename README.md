@@ -17,6 +17,13 @@ Solution for Double-Spend:
     
     1. The timestamp attached indicates that the Transaction would have been signed at some earlier timestamp.
     
-
+3. Proof-of-Work:
+Solution for:
+ 
+    1. Determining representation in majority decision making.
+  
+Challenges:
+    
+    1.If 1-IP 1-Vote given for majority, multiple IPs comes into picture by a single client.
 
 
