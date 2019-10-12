@@ -1,6 +1,14 @@
 
 # hyperLedger
 
+INDUSTRY
+  
+    1. Financial[Trade Finance | Cross-currency payments | Mortages | Letters of credits ]
+    2. Public Sector[Asset Registration | Citizen Identity | Medical Records | Traceability]
+    3. Retail[Loyalty program | Information sharing]
+    4. Insurance[Claim Processing | Risk provenance | Asset Usage History | Claims file]
+    5. Manufacturing[Tracking]
+
 1. Asset Transfer
    
        1.Transactions of asset recorded with proof.
@@ -32,4 +40,4 @@ Use Caes:
        6.Decentralized Trusted Identity[Sovrin App | Hyperledger Indy Technology]
          1. Digital Wallet: Identity pushed on network by each occupants
          2. Cryptographic: point-to-point exchange for trust and end-to-end control
-         3. Storage: No storage on public ledger
+         3. Storage: No Public Identity Information(PII) stored on public ledger. Only public certificate stored on ledger.
