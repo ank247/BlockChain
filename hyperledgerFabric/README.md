@@ -1,6 +1,13 @@
 
 # hyperLedger
 
+IDEATION
+
+    1.Consensus: All participants agree on the transactions agreement, orders of it and invalidations to others
+    2.Provenanc[Real-time]e: Participants know history of assets, ownership changing with time
+    3.Immutability[Crypto]: No participants can tamper with data once agreed
+    4.Finality[ACID rule]: Once data committed can't be rolled back. On error, new transaction to be followed with visibility
+    
 INDUSTRY
   
     1. Financial[Trade Finance | Cross-currency payments | Mortages | Letters of credits ]
