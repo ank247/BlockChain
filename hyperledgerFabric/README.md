@@ -20,7 +20,7 @@ Use Caes:
          bank customer to access financial products and track assests.
        2.Electricity Storing[Germany]: Storing electricity to and fro from industry to factory.
        3.Global Trade.
-       4.Universal payments: 
+       4.Universal payments:[lumen cryptocurrency] 
          1.Removal of amount of intermediataries in between payments. 
          2.Real-time payments and settlements. 
          3.Reduction in cross-border finance challanges. 
