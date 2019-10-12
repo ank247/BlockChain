@@ -68,3 +68,8 @@ Use Caes:
          1. Digital Wallet: Identity pushed on network by each occupants
          2. Cryptographic: point-to-point exchange for trust and end-to-end control
          3. Storage: No Public Identity Information(PII) stored on public ledger. Only public certificate stored on ledger.
+         
+   PROBLEMS
+   
+    1. Participants in 'bitcoin' are large and anonymous and hard to 'track'. So, 'hyperledger' algo.
+    2. 
