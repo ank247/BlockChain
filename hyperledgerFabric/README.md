@@ -9,6 +9,26 @@ INDUSTRY
     4. Insurance[Claim Processing | Risk provenance | Asset Usage History | Claims file]
     5. Manufacturing[Tracking]
 
+KEY PLAYERS
+
+   1.Regulator
+                      
+     1.Concerns on systematic risks of distributed data, security and new technology
+     2.Blockchain based innovations
+     3.Rules of play for blockchain
+     
+   2.Industry Group
+     
+     1.Funded by members of group
+     2.Technical advice on industry trend
+     3.Recommendng blockchain product
+     
+   3.Market Maker
+   
+     1.Liquidity: buy-side and sell-side.
+     2.Organization: innovating organizations
+     3.Create new products and new business process or new business process for existing products
+   
 1. Asset Transfer
    
        1.Transactions of asset recorded with proof.
