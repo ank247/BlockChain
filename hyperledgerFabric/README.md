@@ -1,6 +1,12 @@
 
 # hyperLedger
 
+BLOCKCHAIN
+
+    1.Ledger: log books for inputs-outputs
+    2.Transactions: query transferring
+    3.Contracts: algo for input-output under constrained condition
+
 IDEATION
 
     1.Consensus: All participants agree on the transactions agreement, orders of it and invalidations to others
