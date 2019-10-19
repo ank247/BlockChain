@@ -14,5 +14,11 @@ Architecture
 
   LAYER 2
         
-    1.
-https://hyperledger.github.io/composer/latest/assets/img/Composer-Diagram.svg
+    1.Business Network Archine(.bna)
+  
+  LAYER 3
+  
+    1.HyperLedger Fabric Cloud
+    2.Web Browser(Nodejs)
+    
+[img]https://hyperledger.github.io/composer/latest/assets/img/Composer-Diagram.svg
