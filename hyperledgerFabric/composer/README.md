@@ -3,7 +3,7 @@
 
     1.decentralised blockchain networks: Programming Model + Set of APIs 
 
-Architecture
+Architecture[[img]https://hyperledger.github.io/composer/latest/assets/img/ComposerArchitecture.svg]
   
   LAYER 1
       
