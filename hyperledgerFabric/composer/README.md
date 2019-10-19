@@ -1,7 +1,7 @@
 
 # hyperLedger Composer
 
-About
+    1.decentralised blockchain networks: Programming Model + Set of APIs 
 
 Architecture
   
@@ -22,3 +22,4 @@ Architecture
     2.Web Browser(Nodejs)
     
 [img]https://hyperledger.github.io/composer/latest/assets/img/Composer-Diagram.svg
+
