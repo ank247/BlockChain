@@ -3,7 +3,7 @@
 
     1.decentralised blockchain networks: Programming Model + Set of APIs 
 
-Architecture[[img]https://hyperledger.github.io/composer/latest/assets/img/ComposerArchitecture.svg]
+ARCHITECTURE[[img]https://hyperledger.github.io/composer/latest/assets/img/ComposerArchitecture.svg]
 
     A full-stack blockchain solution[Angularjs + Yeomen] 
   
