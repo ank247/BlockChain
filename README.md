@@ -20,7 +20,13 @@ BLOCKS
  
     ASG1:
 
-        1. Could not relate the input in ex1.py with that to be put in blockcypher online.
+   1. Could not relate the input in ex1.py with that to be put in blockcypher online.
+        
+    Solution
+   
+     Private key: cPoTjeTeZfWKycFMktDvimL3Dn4h3VL39xfkC9gA7Bb4Fc94i1Lx
+     Address: mgZMyfSQvNtQCEiFuZdn3ASmzpwmEeQMct
+
 
 # bitcoin
 
