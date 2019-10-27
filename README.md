@@ -2,6 +2,8 @@
 
 Neural Network based Blockchain
 
+links[Complete Block explanation]: https://en.bitcoin.it/wiki/Dump_format#CBlock
+
 # bitcoin
 
 1.Transactions:
