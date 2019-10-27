@@ -20,7 +20,9 @@ BLOCKS
  
     ASG1:
 
-   1. Could not relate the input in ex1.py with that to be put in blockcypher online.
+   1. Setup could not do in 1st attempt.
+   2. Could not relate the input in ex1.py with that to be put in blockcypher online.
+   3. 
         
     Solution
    
