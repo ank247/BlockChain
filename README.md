@@ -12,6 +12,7 @@ links:
       
     1. [Complete Block explanation]: https://en.bitcoin.it/wiki/Dump_format#CBlock
     2. obtain Test-net coin: https://coinfaucet.eu/en/btc-testnet/
+    3. Tracking transaction hashes: https://live.blockcypher.com/btc-testnet/
 
 BLOCKS
      
