@@ -2,7 +2,16 @@
 
 Neural Network based Blockchain
 
+Interview:
+1. Develop consensus using Web3 for dumping or adding blocks.
+2. Questions will be asked based on the protocols/algos used for the successful of the following consensus.
+3. Questions using those protocols will be asked.
+
 links[Complete Block explanation]: https://en.bitcoin.it/wiki/Dump_format#CBlock
+
+BLOCKS
+
+
 
 # bitcoin
 
