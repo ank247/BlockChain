@@ -3,15 +3,23 @@
 Neural Network based Blockchain
 
 Interview:
-1. Develop consensus using Web3 for dumping or adding blocks.
-2. Questions will be asked based on the protocols/algos used for the successful of the following consensus.
-3. Questions using those protocols will be asked.
+    
+    1. Develop consensus using Web3 for dumping or adding blocks.
+    2. Questions will be asked based on the protocols/algos used for the successful of the following consensus.
+    3. Questions using those protocols will be asked.
 
-links[Complete Block explanation]: https://en.bitcoin.it/wiki/Dump_format#CBlock
+links:
+      
+    1. [Complete Block explanation]: https://en.bitcoin.it/wiki/Dump_format#CBlock
+    2. obtain Test-net coin: https://coinfaucet.eu/en/btc-testnet/
 
 BLOCKS
+     
+ Problem faced:
+ 
+    ASG1:
 
-
+        1. Could not relate the input in ex1.py with that to be put in blockcypher online.
 
 # bitcoin
 
