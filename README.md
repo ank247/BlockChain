@@ -22,12 +22,13 @@ BLOCKS
 
    1. Setup could not do in 1st attempt.
    2. Could not relate the input in ex1.py with that to be put in blockcypher online.
-   3. 
+   3. Integer format of BTC to be kept in 
         
     Solution
    
      Private key: cPoTjeTeZfWKycFMktDvimL3Dn4h3VL39xfkC9gA7Bb4Fc94i1Lx
      Address: mgZMyfSQvNtQCEiFuZdn3ASmzpwmEeQMct
+     tx: 63c1468145ea08fd0f7877b84e849b028a0c11a149c971d125ecddc4a378d26a
 
 
 # bitcoin
