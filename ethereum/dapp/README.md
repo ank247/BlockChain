@@ -2,6 +2,10 @@
 1.
 
 # ETHEREUM
+
+Architecture: A complete working product described layer-by-layer.
+Design: An individual layer/section/integrating portion which could be used for development from the basic coding.
+
 Problems faced while development through web3js:
      
    1. Do not know the beginning point
