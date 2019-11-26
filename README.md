@@ -94,11 +94,15 @@ Principles:
 9. Privacy:
 10.Calculation:
 
-# Ideation:
+# Ideation[Patents]:
 1. Gold Miners(sooner PoW generator): Paid with incentives from needing nodes for transaction. Each nodes paid 
    for less than or equal to ether transacted valued product with Gold Miners with extra bonus. The minter will
    be having high CPU-power node to earn more gold coin.
    
-2.
+2. Zero Knowledge of Proof(The Ant Problem): Trusted Network Synchronization based on previous data.
+
+3. IBFT: Using different system mechanism by shared memory.
+
+4. System Non-Scalability logic: Unique logic to direct fall down in complexity. 
 
     
