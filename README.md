@@ -94,10 +94,13 @@ Principles:
 9. Privacy:
 10.Calculation:
 
-# Company:
-1. Microsoft, 'combining products' provider, System Integrator to make a running use cases for start-ups and mediocre 
-   or below company.
-2. VMware, a system integrator, provides easy interface for product building.
+# Company Ideation:
+1. Financial Value: Microsoft, 'combining products' provider, System Integrator to make a running use cases for 
+   start-ups and mediocre or below company.
+2. Technical Value: VMware, a system integrator, provides easy interface for product building.
+3. Fintech Value: Consulting/Aquiring and providing business growth logic to newbies like Cohesity, Rubrik and 
+   falling companies like Symantec, Oracle and so on.
+4. 
 
 # Ideation[Patents]:
 1. Gold Miners(sooner PoW generator): Paid with incentives from needing nodes for transaction. Each nodes paid for less
