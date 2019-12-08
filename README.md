@@ -121,4 +121,10 @@ Principles:
                                         Peers => Peer1: Owner
                                                  Peer2: Government(Income Tax department)
                    
-        The rental agreement made 100% in one name and rental agreement shared equally by %age among 
+        The rental agreement made 100% in one name and rental agreement shared equally by %age among the partner, 
+        with shared equally %age signed by Owner for total sum income tax of rent, and, submitting 100% in one name 
+        to income tax for the same tax incurred by Owner, will provide Tenants to make budget of:
+        
+                 100% of rent + (minimal amount without Tax that could be taken)*(n-1)
+                 
+         where, n = total partners incuded in business
