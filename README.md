@@ -105,4 +105,20 @@ Principles:
 
 4. System Non-Scalability logic: Unique logic to direct fall down in complexity. 
 
-    
+5. Trust through Multi-Application based consensus: Distribute multiple purpose applications to customers in order 
+   to get trust. 
+   
+   Example:
+     1. (Facebook, Instagram, WhatsApp): Inter-relation of data for trust purpose.
+     2. (Subsidiaries Apps of a parent organization)
+     
+6. Equal Trust through Fractional consensus Vs Complete Consensus: Partitioning of complete amount to make more 
+   individual profit of the organizations with keeping the commodity share for peers to be same.
+   
+   Example:
+     1. Owner, Tenants and Government: 
+                                        Organization => Tenants(Room Partner)
+                                        Peers => Peer1: Owner
+                                                 Peer2: Government(Income Tax department)
+                   
+        The rental agreement made 100% in one name and rental agreement shared equally by %age among 
