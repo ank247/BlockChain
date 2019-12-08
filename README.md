@@ -94,10 +94,15 @@ Principles:
 9. Privacy:
 10.Calculation:
 
+# Company:
+1. Microsoft, 'combining products' provider, System Integrator to make a running use cases for start-ups and mediocre 
+   or below company.
+2. VMware, a system integrator, provides easy interface for product building.
+
 # Ideation[Patents]:
-1. Gold Miners(sooner PoW generator): Paid with incentives from needing nodes for transaction. Each nodes paid 
-   for less than or equal to ether transacted valued product with Gold Miners with extra bonus. The minter will
-   be having high CPU-power node to earn more gold coin.
+1. Gold Miners(sooner PoW generator): Paid with incentives from needing nodes for transaction. Each nodes paid for less
+   than or equal to ether transacted valued product with Gold Miners with extra bonus. The minter will be having high 
+   CPU-power node to earn more gold coin.
    
 2. Zero Knowledge of Proof(The Ant Problem): Trusted Network Synchronization based on previous data.
 
@@ -128,3 +133,6 @@ Principles:
                  100% of rent + (minimal amount without Tax that could be taken)*(n-1)
                  
          where, n = total partners incuded in business
+         
+ 7.
+ 
