@@ -1,3 +1,79 @@
+Submitted and Reviewed:
+
+> Recognized by Project Manager for embraced change in ideation based on Technology and Business value for Decentralized IoT.
+> Presentation to ETL team on decentralized IoT, comparasions of telematics products, smartcard theory.
+
+
+> Involved in collabarative discussions on topics of ESP32, networking methodologies.
+> Explained the working principles of existing products like YouTube backups, YouTube downloaders and IoT protocols used in spotify, notion, Ampme.
+
+>Involved in new ideation discussions on blockchain technology and explained 'Amazon S2n Time Attack' principles based on paper published by IACR.
+
+> Participation on AI based Gaming Hackathon developed in Java.
+> International Rank: 805 with the rating of 2100 in Artificial Intelligence based hackathon held by Mail.Ru Russia.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+1. Patents ideation:(Explained to the team the various approaches)
+>PoW for enhancing business development strategy,
+>Raft/IBFT for electronic gadgets compatability,
+>Zero Knowledge of Proof for ai based path tracking devices for blind people
+
+2. discussed mechanism(With their architecture, design, use cases on each) to incorporate in current product development.
+
+---------------------------------------------------------------------------------------------------------------------------
+Certification:
+1) IBM Blockchain Essentials V2
+> complete knowledge for TradeLens, a Tracking Product of IBM.
+2) IBM Hyper Composer:
+> Completed a small project in TradeLens in NodeJs.
+
+3) Enhanced knowledge on various consensus mechanism:
+1) Kafka/Zoo-keeper
+2) Proof-of-Work
+3) Proof-of-Stake
+4) Raft/IBFT
+5) Solo
+
+4.) Continuous skill updation on following Coding Languages:
+1) C/C++
+2) Nodejs
+3) Solidity
+4) Web3
+
+-------------------------------------------------------------------------------------------------------------------
+
+> Attended around 95% agile sprints, meetings.
+
+Completed various recommended Training materials from Coursera suggested by team:
+1. Javascript
+2. Advanced Javascript
+3. Git
+4. Linux
+5. Object Oriented Programming
+6. Design Patterns
+
+Completed Mandatory Trainings:
+1. ISP-ISP001
+2. ISP-ISP002
+3. ISP-ISP005-DoCONF-PersData
+4. ISP - ISP 042
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+• This was a platform development project where the developer developed a decentralized network similar to Quorum to demonstrate the improvement in the transaction speed and carry multiple users simultaneously at its maximum capacity using major technical perspective explained below..
+• demonstrated a demo of raft consensus over distributed network with real-time functionalities of node-events, transactions among nodes in nodejs.
+
+Accomplishments:
+• enhanced performance of the consensus through worker threads and cpu scheduling approach for improved data processing using buffer array reduction.
+• scaled the simultaneous network events to 100k users from 1k users through shared memory method.
+
+> Undertook technical assignments and developed projects: Platform Development Project, Healthcare challenge.
+> Presented the project flow and various technical components involved in Decentralized IoT.
+> Undertook literary review of various platform components and suggested ways to review/refine, incorporate design methodologies for current product development
+
+===================================================================================================================================
 
 Hi All,
 
