@@ -2,12 +2,6 @@
 
 Neural Network based Blockchain
 
-Interview:
-    
-    1. Develop consensus using Web3 for dumping or adding blocks.
-    2. Questions will be asked based on the protocols/algos used for the successful of the following consensus.
-    3. Questions using those protocols will be asked.
-
 links:
       
     1. [Complete Block explanation]: https://en.bitcoin.it/wiki/Dump_format#CBlock
@@ -93,49 +87,3 @@ Principles:
 8. Combining and Splitting Values:
 9. Privacy:
 10.Calculation:
-
-# Company Ideation:
-1. Financial Value: Microsoft, 'combining products' provider, System Integrator to make a running use cases for 
-   start-ups and mediocre or below company.
-2. Technical Value: VMware, a system integrator, provides easy interface for product building.
-3. Fintech Value: Consulting/Aquiring and providing business growth logic to newbies like Cohesity, Rubrik and 
-   falling companies like Symantec, Oracle and so on.
-4. 
-
-# Ideation[Patents]:
-1. Gold Miners(sooner PoW generator): Paid with incentives from needing nodes for transaction. Each nodes paid for less
-   than or equal to ether transacted valued product with Gold Miners with extra bonus. The minter will be having high 
-   CPU-power node to earn more gold coin.
-   
-2. Zero Knowledge of Proof(The Ant Problem): Trusted Network Synchronization based on previous data.
-
-3. IBFT: Using different system mechanism by shared memory.
-
-4. System Non-Scalability logic: Unique logic to direct fall down in complexity. 
-
-5. Trust through Multi-Application based consensus: Distribute multiple purpose applications to customers in order 
-   to get trust. 
-   
-   Example:
-     1. (Facebook, Instagram, WhatsApp): Inter-relation of data for trust purpose.
-     2. (Subsidiaries Apps of a parent organization)
-     
-6. Equal Trust through Fractional consensus Vs Complete Consensus: Partitioning of complete amount to make more 
-   individual profit of the organizations with keeping the commodity share for peers to be same.
-   
-   Example:
-     1. Owner, Tenants and Government: 
-                                        Organization => Tenants(Room Partner)
-                                        Peers => Peer1: Owner
-                                                 Peer2: Government(Income Tax department)
-                   
-        The rental agreement made 100% in one name and rental agreement shared equally by %age among the partner, 
-        with shared equally %age signed by Owner for total sum income tax of rent, and, submitting 100% in one name 
-        to income tax for the same tax incurred by Owner, will provide Tenants to make budget of:
-        
-                 100% of rent + (minimal amount without Tax that could be taken)*(n-1)
-                 
-         where, n = total partners incuded in business
-         
- 7.
- 
