@@ -1,0 +1,10 @@
+GATEWAY
+
+    1. Application connected to gateway
+    2. Gateway implements business logic on behalf of application
+    3. Managed by gateway's configuration
+    
+scenarios
+    
+    1. Peer, Orderer and Certification Authority
+    2. 
