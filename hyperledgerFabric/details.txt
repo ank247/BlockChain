@@ -1,3 +1,17 @@
+#Enterprise Application
+
+Profile:
+   
+    1. Solution & Application Architect
+    2. Application developer
+    3. Smart contract developer
+    4. Consensus/strategies for business
+
+Development steps:
+  
+    1. Software Development lifecycles
+    2. Consensus involving business logics
+    3. Smart contracts to maintain database world-state
 
 GATEWAY
 
