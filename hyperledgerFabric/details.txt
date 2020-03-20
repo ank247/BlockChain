@@ -1,3 +1,4 @@
+
 GATEWAY
 
     1. Application connected to gateway
